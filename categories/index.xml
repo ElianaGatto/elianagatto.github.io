@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Avv. Eliana Gatto</title>
-    <link>http://elianagatto.it/categories/</link>
+    <link>https://www.elianagatto.it/categories/</link>
     <description>Recent content in Categories on Avv. Eliana Gatto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     
-	<atom:link href="http://elianagatto.it/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.elianagatto.it/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

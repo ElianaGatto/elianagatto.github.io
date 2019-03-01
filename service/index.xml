@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Avv. Eliana Gatto</title>
-    <link>http://elianagatto.it/service/</link>
+    <link>https://www.elianagatto.it/service/</link>
     <description>Recent content in Services on Avv. Eliana Gatto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <lastBuildDate>Thu, 01 Jan 1970 01:33:29 +0100</lastBuildDate>
     
-	<atom:link href="http://elianagatto.it/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.elianagatto.it/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Consulenza economico-fiscale</title>
-      <link>http://elianagatto.it/service/service3/</link>
+      <link>https://www.elianagatto.it/service/service3/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:29 +0100</pubDate>
       
-      <guid>http://elianagatto.it/service/service3/</guid>
-      <description>Offriamo anche un’assistenza economica fiscale e tributaria. Ci avvaliamo infatti della preziosa collaborazione della Dott.ssa Commercialista Marianna Gatto. Grazie alla cooperazione tra entrambe le figure professionali possiamo garantire al cliente un servizio più completo e la massima tutela su più fronti.</description>
+      <guid>https://www.elianagatto.it/service/service3/</guid>
+      <description>Offriamo anche un’assistenza economica fiscale e tributaria, avvalendoci della preziosa collaborazione della Dott.ssa Commercialista Marianna Gatto. Grazie alla cooperazione tra entrambe le figure professionali possiamo garantire al cliente un servizio più completo e la massima tutela su più fronti.</description>
     </item>
     
     <item>
       <title>Consulenza legale</title>
-      <link>http://elianagatto.it/service/service1/</link>
+      <link>https://www.elianagatto.it/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://elianagatto.it/service/service1/</guid>
+      <guid>https://www.elianagatto.it/service/service1/</guid>
       <description>Possiamo e vogliamo offrirti una consulenza o un parere legale su una questione giuridica tutte le volte in cui tu non sappia cosa fare.
 Molto spesso – nella maggior parte dei casi - agire in tempo è importante per la tutela dei tuoi diritti.</description>
     </item>
     
     <item>
       <title>Difesa processuale</title>
-      <link>http://elianagatto.it/service/service2/</link>
+      <link>https://www.elianagatto.it/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://elianagatto.it/service/service2/</guid>
+      <guid>https://www.elianagatto.it/service/service2/</guid>
       <description>Ci piace studiare la miglior difesa per il cliente, sia in sede di contenzioso che di assistenza stragiudiziale. Ci occupiamo e trattiamo molti temi di diritto civile, con particolare attenzione anche al diritto del lavoro e previdenza.</description>
     </item>
     
